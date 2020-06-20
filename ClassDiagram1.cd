@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CVBuilder.AdditionalCourse" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>AdditionalCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.ATemplate" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACCAAAACCAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ATemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.DecentTemplate">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecentTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.Education" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAAAAAAAAAAAAAAAAABAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Education.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.Error" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Error.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.Form1" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>//n/VpnMQGCwy/13FI244b/jON0/8v/v/CcT8///R7A=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.Form2" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAGAAIQAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.Person" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAECGAAAAACQAgAAAACAAAAAIEAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.Program" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.StylishTemplate">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StylishTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.TraditionalTemplate">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TraditionalTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.WorkHistory" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAABAAAAAAAAAAIBAA=</HashCode>
+      <FileName>WorkHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.Properties.Resources" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAABFBABAQCFAgGAABAAAQAAAYA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVBuilder.Properties.Settings" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
